@@ -1,0 +1,1 @@
+{"version": "0.1.9", "description": "An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3", "url": "https://sublimetutor.com", "platforms": ["osx"], "dependencies": [], "sublime_text": ">=3000"}
